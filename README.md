@@ -97,7 +97,7 @@ Made with ❤️ using React
 ---
 
 ### 📌 Notes:
-- Replace `https://github.com/your-username/investment-calculator.git` with your actual repo URL.
+- Replace `https://github.com/Pratik667/investment-calculator.git` with your actual repo URL.
 - Add `screenshots/` folder with `input.png` and `results.png` if you'd like screenshots to show.
 - If you're deploying (e.g., via Vercel or Netlify), I can help add a **live demo** badge/link.
 
